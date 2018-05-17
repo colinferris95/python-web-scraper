@@ -170,23 +170,23 @@ def scrapeSite(startingNum,category):
 
 def runScrape(items):
     #aftersun
-    #scrapeSite(str(items),"category=after_sun_product&&showmore=products&atatime=")
+    scrapeSite(str(items),"category=after_sun_product&&showmore=products&atatime=")
 	#anti-aging
-    #scrapeSite(str(items),"category=anti-aging&&showmore=products&atatime=")	
+    scrapeSite(str(items),"category=anti-aging&&showmore=products&atatime=")	
     #around-eye	
-    #scrapeSite(str(items),"category=around-eye+cream&&showmore=products&atatime=")	
+    scrapeSite(str(items),"category=around-eye+cream&&showmore=products&atatime=")	
     #body-firm	
-    #scrapeSite(str(items),"category=body+firming+lotion&&showmore=products&atatime=")
+    scrapeSite(str(items),"category=body+firming+lotion&&showmore=products&atatime=")
     #body-oil
-    #scrapeSite(str(items),"category=body+oil&&showmore=products&atatime=")	
+    scrapeSite(str(items),"category=body+oil&&showmore=products&atatime=")	
 	#facial-moisturizer
     scrapeSite(str(items),"category=facial+moisturizer;;treatment&&showmore=products&atatime=")
     #foot-moisturizer
-    #scrapeSite(str(items),"category=foot+moisturizer&&showmore=products&atatime=")	
+    scrapeSite(str(items),"category=foot+moisturizer&&showmore=products&atatime=")	
     #hand+cream
-    #scrapeSite(str(items),"category=hand+cream&&showmore=products&atatime=")
+    scrapeSite(str(items),"category=hand+cream&&showmore=products&atatime=")
     #moisturizer	
-   # scrapeSite(str(items),"category=moisturizer&&showmore=products&atatime=")	
+    scrapeSite(str(items),"category=moisturizer&&showmore=products&atatime=")	
 	
 	
 
